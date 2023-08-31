@@ -1,1 +1,1 @@
-creating directory with permissions at the same time
+change froup ownership
