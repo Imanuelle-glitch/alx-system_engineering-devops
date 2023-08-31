@@ -1,1 +1,1 @@
-print effective user
+print current user group
