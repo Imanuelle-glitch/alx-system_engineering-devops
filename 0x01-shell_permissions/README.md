@@ -1,1 +1,1 @@
-modity multiple permissions
+modify permissions using octal form
