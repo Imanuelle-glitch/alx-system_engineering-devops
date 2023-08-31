@@ -1,1 +1,1 @@
-print current user group
+change owner of file
