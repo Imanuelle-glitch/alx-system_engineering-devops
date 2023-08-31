@@ -1,1 +1,1 @@
-add general permission
+modity multiple permissions
