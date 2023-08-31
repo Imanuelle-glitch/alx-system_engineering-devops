@@ -1,1 +1,1 @@
-chanhe owner and group owner of symbolic link
+change if only owner
