@@ -1,1 +1,1 @@
-modify permissions using octal form
+mirror file permission
