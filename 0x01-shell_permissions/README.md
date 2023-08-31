@@ -1,1 +1,1 @@
-creating a script to switch user
+print effective user
