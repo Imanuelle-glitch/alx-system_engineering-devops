@@ -1,1 +1,1 @@
-all subdirectories permission
+creating directory with permissions at the same time
