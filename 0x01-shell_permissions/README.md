@@ -1,1 +1,1 @@
-add multiple permissions
+add general permission
