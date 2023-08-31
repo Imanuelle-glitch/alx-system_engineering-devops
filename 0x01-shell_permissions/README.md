@@ -1,1 +1,1 @@
-change froup ownership
+change owner and group owner
