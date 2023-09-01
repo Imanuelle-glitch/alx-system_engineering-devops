@@ -1,1 +1,1 @@
-go back to the previous directory
+list all contents of different directories all at once in long format
