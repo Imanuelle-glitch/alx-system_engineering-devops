@@ -1,1 +1,1 @@
-move file from parent directory to subdirectory
+delete file in subdirectory
