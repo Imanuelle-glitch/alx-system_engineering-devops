@@ -1,1 +1,1 @@
-copy and paste html files
+moving all files beginning with an uppercase letter
