@@ -1,1 +1,1 @@
-delete file in subdirectory
+delete subdirectory
