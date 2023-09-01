@@ -1,1 +1,1 @@
-create a diectory in a parent directory
+move file from parent directory to subdirectory
