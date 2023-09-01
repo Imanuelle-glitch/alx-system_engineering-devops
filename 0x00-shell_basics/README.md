@@ -1,1 +1,1 @@
-delete files that end with
+create multiple directories all at once
