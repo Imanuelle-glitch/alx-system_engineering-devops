@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -p | grep -E '^[0-9a-zA-Z]' | sort -d | tr '\n' ',' | sed 's/,$/\n/'
+ls -apvm
