@@ -1,1 +1,1 @@
-Learning and practicing shell basics
+list files and directories seperated by commas
