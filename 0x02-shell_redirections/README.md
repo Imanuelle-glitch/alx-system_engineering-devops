@@ -1,1 +1,1 @@
-acessing two files with necessary permissions
+display last ten lines of a file
