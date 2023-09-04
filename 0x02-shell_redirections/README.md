@@ -1,1 +1,1 @@
-access and display passwd file as a sudo user
+acessing two files with necessary permissions
