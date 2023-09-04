@@ -1,0 +1,14 @@
+total 47
+drwx------ 2 u0_a285 u0_a285 3452 Sep  4 21:23 .
+drwx------ 6 u0_a285 u0_a285 3452 Sep  4 20:44 ..
+-rwx------ 1 u0_a285 u0_a285   30 Sep  4 20:44 0-hello_world
+-rwx------ 1 u0_a285 u0_a285   28 Sep  4 20:44 1-confused_smiley
+-rwx------ 1 u0_a285 u0_a285   33 Sep  4 20:44 2-hellofile
+-rwx------ 1 u0_a285 u0_a285   44 Sep  4 20:44 3-twofiles
+-rwx------ 1 u0_a285 u0_a285   29 Sep  4 20:44 4-lastlines
+-rwx------ 1 u0_a285 u0_a285   29 Sep  4 20:44 5-firstlines
+-rwx------ 1 u0_a285 u0_a285   42 Sep  4 21:08 6-third_line
+-rwx------ 1 u0_a285 u0_a285   36 Sep  4 21:22 8-cwd_state
+-rw------- 1 u0_a285 u0_a285   67 Sep  4 21:17 README.md
+-rw------- 1 u0_a285 u0_a285  731 Sep  4 21:16 iacta
+-rw------- 1 u0_a285 u0_a285    0 Sep  4 21:23 ls_cwd_content
