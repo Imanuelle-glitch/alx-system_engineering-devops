@@ -1,1 +1,1 @@
-print all possible combinations of two letters
+print a number with two decimal places
