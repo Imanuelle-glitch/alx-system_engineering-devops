@@ -1,1 +1,1 @@
-redirect the output of a command into a file
+delete all files with a .js extension
