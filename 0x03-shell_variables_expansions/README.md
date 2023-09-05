@@ -1,1 +1,1 @@
-print hello user
+add directory to path variable
