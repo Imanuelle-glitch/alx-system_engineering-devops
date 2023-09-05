@@ -1,1 +1,1 @@
-remove specified characters in a word
+reverse input
