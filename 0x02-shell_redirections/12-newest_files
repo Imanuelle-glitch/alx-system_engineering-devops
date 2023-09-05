@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1t | awk 'NR<=10 {print}'
+ls -t | head -10
