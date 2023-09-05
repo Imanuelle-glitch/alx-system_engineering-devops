@@ -1,1 +1,1 @@
-replace characters
+remove specified characters in a word
