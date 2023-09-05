@@ -1,1 +1,1 @@
-coumt directories and subdirectories in the current directory
+display 10 newest files
