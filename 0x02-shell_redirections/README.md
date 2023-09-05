@@ -1,1 +1,1 @@
-display lines that do not contain bin pattern
+display all lines starting with a letter
