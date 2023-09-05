@@ -1,1 +1,1 @@
-display 10 newest files
+display sorted list of files that do not repeat itself
