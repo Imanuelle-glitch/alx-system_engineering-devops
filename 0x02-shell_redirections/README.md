@@ -1,1 +1,1 @@
-display sorted list of files that do not repeat itself
+display lines containing root pattern
