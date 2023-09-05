@@ -1,1 +1,1 @@
-convert binary to decimal
+print all possible combinations of two letters
