@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | awk 'NR<=11 {print}'
+ls -1t | awk 'NR<=10 {print}'
