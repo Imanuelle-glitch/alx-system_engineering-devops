@@ -1,1 +1,1 @@
-print the result of POWER divided by DIVIDE
+display the result BREATH to the power of LOVE
