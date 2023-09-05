@@ -1,1 +1,1 @@
-delete all files with a .js extension
+coumt directories and subdirectories in the current directory
