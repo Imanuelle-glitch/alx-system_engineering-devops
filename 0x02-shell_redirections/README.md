@@ -1,1 +1,1 @@
-count the number of occurrence of a word
+display lines containing the root pattern and three lines after them
