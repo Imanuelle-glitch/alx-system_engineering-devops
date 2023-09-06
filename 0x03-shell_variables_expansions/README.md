@@ -1,1 +1,1 @@
-print a number with two decimal places
+add two numbers in their bases from the environment variable
