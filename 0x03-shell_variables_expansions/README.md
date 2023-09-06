@@ -1,1 +1,1 @@
-encode and decode text
+convert a numner feom base ten to base sixteen
