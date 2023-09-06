@@ -1,1 +1,1 @@
-add two numbers in their bases from the environment variable
+print every other line from the input starting from the first line
